@@ -4,4 +4,4 @@ print("Second Edit")
 
 print("This is first commmit of New Branch1")
 
-print("Commit of branch 3")
+print("This is the commit of branch 2")
