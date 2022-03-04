@@ -3,3 +3,5 @@ print("Hello World!")
 print("Second Edit")
 
 print("This is first commmit of New Branch1")
+
+print("Commit of branch 3")
